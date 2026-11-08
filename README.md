@@ -1,4 +1,4 @@
-﻿# <img src="assets/logo.svg" alt="Pixel Logo" width="36" style="vertical-align: middle; margin-right: 8px;" /> Pixel — Image Extractor
+# <img src="assets/logo.svg" alt="Pixel Logo" width="36" style="vertical-align: middle; margin-right: 8px;" /> Pixel — Image Extractor
 
 <p align="center">
   <em>A high-performance Chrome side panel extension and standalone web application for discovering, analyzing, converting, and exporting images from any webpage.</em>
@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shakibzcv/pixel-image-extractor/releases/download/v1.0.2/pixel-image-extractor-chrome-extension-1.0.2.zip">
-    <img src="https://img.shields.io/badge/Download%20Extension-v1.0.2-f43f5e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download Extension v1.0.2" />
+  <a href="https://github.com/shakibzcv/pixel-image-extractor/releases/download/v1.0.0/pixel-image-extractor-chrome-extension-1.0.0.zip">
+    <img src="https://img.shields.io/badge/Download%20Extension-v1.0.0-f43f5e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download Extension v1.0.0" />
   </a>
   &nbsp;&nbsp;
   <a href="https://shakibzcv.github.io/pixel-image-extractor/">
     <img src="https://img.shields.io/badge/Official%20Website-Visit%20Site-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Official Website" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/shakibzcv/pixel-image-extractor/releases/tag/v1.0.2">
-    <img src="https://img.shields.io/badge/GitHub%20Release-v1.0.2-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Release v1.0.2" />
+  <a href="https://github.com/shakibzcv/pixel-image-extractor/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/GitHub%20Release-v1.0.0-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Release v1.0.0" />
   </a>
 </p>
 
@@ -204,7 +204,7 @@ pixel-image-extractor/
 ### ⚡ Quick Install (Pre-built Release)
 
 1. **Download the latest release archive:**
-   👉 **[pixel-image-extractor-chrome-extension-1.0.2.zip](https://github.com/shakibzcv/pixel-image-extractor/releases/download/v1.0.2/pixel-image-extractor-chrome-extension-1.0.2.zip)** (or download directly from the [Official Website](https://shakibzcv.github.io/pixel-image-extractor/)).
+   👉 **[pixel-image-extractor-chrome-extension-1.0.0.zip](https://github.com/shakibzcv/pixel-image-extractor/releases/download/v1.0.0/pixel-image-extractor-chrome-extension-1.0.0.zip)** (or download directly from the [Official Website](https://shakibzcv.github.io/pixel-image-extractor/)).
 2. **Extract the ZIP file** to a local directory on your computer.
 3. Open Google Chrome and navigate to `chrome://extensions/`.
 4. Enable **Developer mode** toggle in the top-right corner.

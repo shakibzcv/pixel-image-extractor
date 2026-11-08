@@ -1,4 +1,4 @@
-﻿# <img src="public/logo.svg" alt="Pixel Logo" width="32" style="vertical-align: middle; margin-right: 8px;" /> Pixel — Chrome Extension
+# <img src="public/logo.svg" alt="Pixel Logo" width="32" style="vertical-align: middle; margin-right: 8px;" /> Pixel — Chrome Extension
 
 <p align="center">
   <em>A high-performance Chrome Side Panel extension for extracting, inspecting, converting, and batch exporting images from any webpage.</em>
@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shakibzcv/pixel-image-extractor/releases/download/v1.0.2/pixel-image-extractor-chrome-extension-1.0.2.zip">
-    <img src="https://img.shields.io/badge/Download%20Extension-v1.0.2-f43f5e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download Extension v1.0.2" />
+  <a href="https://github.com/shakibzcv/pixel-image-extractor/releases/download/v1.0.0/pixel-image-extractor-chrome-extension-1.0.0.zip">
+    <img src="https://img.shields.io/badge/Download%20Extension-v1.0.0-f43f5e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download Extension v1.0.0" />
   </a>
   &nbsp;&nbsp;
   <a href="https://shakibzcv.github.io/pixel-image-extractor/">
@@ -193,7 +193,7 @@ This will:
 
 1. Run TypeScript validation (`tsc -b`).
 2. Generate the optimized bundle in the `dist/` folder.
-3. Package a zipped extension archive into the `release/` directory (e.g. `release/pixel-image-extractor-chrome-extension-1.0.2.zip`) ready for distribution or the Chrome Web Store.
+3. Package a zipped extension archive into the `release/` directory (e.g. `release/pixel-image-extractor-chrome-extension-1.0.0.zip`) ready for distribution or the Chrome Web Store.
 
 ---
 

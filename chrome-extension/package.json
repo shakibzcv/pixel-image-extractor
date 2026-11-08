@@ -3,7 +3,7 @@
   "displayName": "Pixel — Image Extractor",
   "description": "A high-performance Chrome extension for extracting, analyzing, and managing images from any webpage.",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
